@@ -1,0 +1,1 @@
+{"nodes":[{"id":"src/screens/CareerPage/CareerPage.tsx","label":"CareerPage","routes":["/*","/career-page"],"type":"screen","dataModelId":"2578:489","isRoot":true},{"id":"src/screens/JobDescriptionPage/JobDescriptionPage.tsx","label":"JobDescriptionPage","routes":["/job-description-page"],"type":"screen","dataModelId":"2582:288"}],"edges":[]}
